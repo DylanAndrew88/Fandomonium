@@ -34,7 +34,7 @@ class Header extends Component {
         },
         {
           name: 'Dylan Stump',
-          link: 'https://www.linkedin.com/in/writer-dylan-stump/'
+          link: 'https://www.linkedin.com/in/dev-dylan-stump/'
         }
       ],
       rowsToDisplay: 0,
